@@ -49,6 +49,16 @@ class AppNavbar extends Component {
                                     Github
                                 </NavLink>
                             </NavItem>
+                            <NavItem>
+                                <NavLink href="https://www.facebook.com/ibnathism.1729">
+                                    Facebook
+                                </NavLink>
+                            </NavItem>
+                            <NavItem>
+                                <NavLink href="https://www.instagram.com/ibnathism/">
+                                    Instagram
+                                </NavLink>
+                            </NavItem>
                         </Nav>
                     </Collapse>
                 </Container>
